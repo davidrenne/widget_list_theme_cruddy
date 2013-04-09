@@ -2,7 +2,7 @@
 
 A Theme for the [widget_list][1] gem.  A cruddy beige theme.  I like it.
 
-![](http://davidrenne.com/github/widget_list/theme_blue_sky_basin.png)
+![](http://davidrenne.com/github/widget_list/cruddy.png)
 
 ## Installation
 
