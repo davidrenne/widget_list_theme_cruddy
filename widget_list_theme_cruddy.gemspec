@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{In rails you have will_paginate and other gems like it using the ActiveRecord approach, but widget_list adds some awesome treats to standard boring pagers}
   spec.homepage      = "https://github.com/davidrenne/widget_list_theme_cruddy/"
   spec.license       = "MIT"
+  spec.add_dependency('widget_list', '~> 1.2.0')
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
